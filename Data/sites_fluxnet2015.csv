@@ -1,0 +1,379 @@
+siteID,site_name,site_desc,country,province_state,data_tier2015,data_start2015,data_end2015,lat,lon,elev_m,IGBP,MAT,MAP
+AR-SLu,San Luis,mixed forest,Argentina,NA,1,2009,2011,-33.4648,-66.4598,NA,MF,NA,400
+AR-SLu,San Luis,mixed forest,Argentina,NA,2,2009,2011,-33.4648,-66.4598,NA,MF,NA,400
+AR-Vir,Virasoro,evergreen needleleaf forest,Argentina,NA,1,2009,2012,-28.2395,-56.1886,NA,ENF,NA,NA
+AR-Vir,Virasoro,evergreen needleleaf forest,Argentina,NA,2,2009,2012,-28.2395,-56.1886,NA,ENF,NA,NA
+AT-Neu,Neustift,grassland with wetland,Austria,NA,1,2002,2012,47.11667,11.3175,970,GRA,6.3,852
+AT-Neu,Neustift,grassland with wetland,Austria,NA,2,2002,2012,47.11667,11.3175,970,GRA,6.3,852
+AU-Ade,Adelaide River,woody savanna,Australia,NA,1,2007,2009,-13.0769,131.1178,NA,WSA,NA,NA
+AU-Ade,Adelaide River,woody savanna,Australia,NA,2,2007,2009,-13.0769,131.1178,NA,WSA,NA,NA
+AU-ASM,Alice Springs,evergreen needleleaf forest,Australia,NA,1,2010,2013,-22.283,133.249,NA,ENF,NA,NA
+AU-ASM,Alice Springs,evergreen needleleaf forest,Australia,NA,2,2010,2014,-22.283,133.249,NA,ENF,NA,NA
+AU-Cpr,Calperum,savanna,Australia,NA,1,2010,2014,-34.0021,140.5891,NA,SAV,NA,NA
+AU-Cpr,Calperum,savanna,Australia,NA,2,2010,2014,-34.0021,140.5891,NA,SAV,NA,NA
+AU-Cum,Cumberland Plain,evergreen broadleaf forest,Australia,NA,1,2012,2014,-33.61518,150.72362,NA,EBF,NA,NA
+AU-Cum,Cumberland Plain,evergreen broadleaf forest,Australia,NA,2,2012,2014,-33.61518,150.72362,NA,EBF,NA,NA
+AU-DaP,Daly River Savanna,grassland with wetland,Australia,NA,1,2007,2013,-14.0633,131.3181,NA,GRA,27.25,983.78
+AU-DaP,Daly River Savanna,grassland with wetland,Australia,NA,2,2007,2013,-14.0633,131.3181,NA,GRA,27.25,983.78
+AU-DaS,Daly River Cleared,grassland,Australia,NA,1,2008,2014,-14.1593,131.3881,NA,SAV,27.22,975.82
+AU-DaS,Daly River Cleared,grassland,Australia,NA,2,2008,2014,-14.1593,131.3881,NA,SAV,27.22,975.82
+AU-Dry,Dry River,savanna,Australia,NA,1,2008,2014,-15.2588,132.3706,NA,SAV,NA,NA
+AU-Dry,Dry River,savanna,Australia,NA,2,2008,2014,-15.2588,132.3706,NA,SAV,NA,NA
+AU-Emr,Emerald,grassland with wetland,Australia,NA,1,2011,2013,-23.8587,148.4746,NA,GRA,NA,NA
+AU-Emr,Emerald,grassland with wetland,Australia,NA,2,2011,2013,-23.8587,148.4746,NA,GRA,NA,NA
+AU-Fog,Fogg Dam,wetland,Australia,NA,1,2006,2008,-12.5452,131.3072,NA,WET,27.02,1323.69
+AU-Fog,Fogg Dam,wetland,Australia,NA,2,2006,2008,-12.5452,131.3072,NA,WET,27.02,1323.69
+AU-Gin,Gingin,woody savanna,Australia,NA,1,2011,2014,-31.3764,115.7138,NA,WSA,NA,NA
+AU-Gin,Gingin,woody savanna,Australia,NA,2,2011,2014,-31.3764,115.7138,NA,WSA,NA,NA
+AU-GWW,"Great Western Woodlands, Western Australia, Australia",savanna,Australia,Western Australia,1,2013,2014,-30.1913,120.6541,NA,SAV,NA,NA
+AU-GWW,"Great Western Woodlands, Western Australia, Australia",savanna,Australia,Western Australia,2,2013,2014,-30.1913,120.6541,NA,SAV,NA,NA
+AU-How,Howard Springs,woody savanna,Australia,NA,1,2001,2014,-12.4943,131.1523,NA,WSA,27.01,1449.35
+AU-How,Howard Springs,woody savanna,Australia,NA,2,2001,2014,-12.4943,131.1523,NA,WSA,27.01,1449.35
+AU-Lox,Loxton,deciduous broadleaf forest,Australia,NA,1,2008,2009,-34.4704,140.6551,NA,DBF,NA,NA
+AU-Lox,Loxton,deciduous broadleaf forest,Australia,NA,2,2008,2009,-34.4704,140.6551,NA,DBF,NA,NA
+AU-RDF,"Red Dirt Melon Farm, Northern Territory",woody savanna,Australia,Northern Territory,1,2011,2013,-14.5636,132.4776,NA,WSA,NA,NA
+AU-RDF,"Red Dirt Melon Farm, Northern Territory",woody savanna,Australia,Northern Territory,2,2011,2013,-14.5636,132.4776,NA,WSA,NA,NA
+AU-Rig,Riggs Creek,grassland with wetland,Australia,NA,1,2011,2014,-36.6499,145.5759,NA,GRA,NA,NA
+AU-Rig,Riggs Creek,grassland with wetland,Australia,NA,2,2011,2014,-36.6499,145.5759,NA,GRA,NA,NA
+AU-Rob,"Robson Creek, Queensland, Australia",evergreen broadleaf forest,Australia,Queensland,1,2014,2014,-17.1175,145.6301,NA,EBF,NA,NA
+AU-Rob,"Robson Creek, Queensland, Australia",evergreen broadleaf forest,Australia,Queensland,2,2014,2014,-17.1175,145.6301,NA,EBF,NA,NA
+AU-Stp,Sturt Plains,grassland with wetland,Australia,NA,1,2008,2014,-17.1507,133.3502,NA,GRA,NA,NA
+AU-Stp,Sturt Plains,grassland with wetland,Australia,NA,2,2008,2014,-17.1507,133.3502,NA,GRA,NA,NA
+AU-TTE,Ti Tree East,grassland with wetland,Australia,NA,1,2012,2013,-22.287,133.64,NA,OSH,NA,NA
+AU-TTE,Ti Tree East,grassland with wetland,Australia,NA,2,2012,2014,-22.287,133.64,NA,OSH,NA,NA
+AU-Tum,Tumbarumba,evergreen broadleaf forest,Australia,NA,1,2001,2014,-35.6566,148.1517,1200,EBF,10.72,1159.01
+AU-Tum,Tumbarumba,evergreen broadleaf forest,Australia,NA,2,2001,2014,-35.6566,148.1517,1200,EBF,10.72,1159.01
+AU-Wac,Wallaby Creek,evergreen broadleaf forest,Australia,NA,1,2005,2008,-37.4259,145.1878,NA,EBF,12.76,1105.59
+AU-Wac,Wallaby Creek,evergreen broadleaf forest,Australia,NA,2,2005,2008,-37.4259,145.1878,NA,EBF,12.76,1105.59
+AU-Whr,Whroo,evergreen broadleaf forest,Australia,NA,1,2011,2014,-36.6732,145.0294,NA,EBF,NA,NA
+AU-Whr,Whroo,evergreen broadleaf forest,Australia,NA,2,2011,2014,-36.6732,145.0294,NA,EBF,NA,NA
+AU-Wom,Wombat,evergreen broadleaf forest,Australia,NA,1,2010,2012,-37.4222,144.0944,705,EBF,NA,NA
+AU-Wom,Wombat,evergreen broadleaf forest,Australia,NA,2,2010,2014,-37.4222,144.0944,705,EBF,NA,NA
+AU-Ync,Jaxa,grassland with wetland,Australia,NA,1,2012,2014,-34.9893,146.2907,NA,GRA,NA,NA
+AU-Ync,Jaxa,grassland with wetland,Australia,NA,2,2012,2014,-34.9893,146.2907,NA,GRA,NA,NA
+BE-Bra,Brasschaat,mixed forest,Belgium,NA,1,1996,2014,51.30761,4.51984,16,MF,9.8,750
+BE-Bra,Brasschaat,mixed forest,Belgium,NA,2,1996,2014,51.30761,4.51984,16,MF,9.8,750
+BE-Lon,Lonzee,grassland with wetland,Belgium,NA,1,2004,2014,50.5516,4.74613,167,CRO,10,800
+BE-Lon,Lonzee,grassland with wetland,Belgium,NA,2,2004,2014,50.5516,4.74613,167,CRO,10,800
+BE-Vie,Vielsalm,mixed forest,Belgium,NA,1,1996,2014,50.30496,5.99808,493,MF,7.8,1062
+BE-Vie,Vielsalm,mixed forest,Belgium,NA,2,1996,2014,50.30496,5.99808,493,MF,7.8,1062
+BR-Sa1,Santarem-Km67-Primary Forest,Primary Forest,Brazil,NA,2,2002,2011,-2.85667,-54.95889,88,EBF,26.13,2074.79
+BR-Sa3,Santarem-Km83-Logged Forest,Logged Forest,Brazil,NA,1,2000,2004,-3.01803,-54.97144,100,EBF,26.12,2043.77
+BR-Sa3,Santarem-Km83-Logged Forest,Logged Forest,Brazil,NA,2,2000,2004,-3.01803,-54.97144,100,EBF,26.12,2043.77
+CA-Gro,"Ontario - Groundhog River, Boreal Mixedwood Forest",Boreal Mixedwood Forest,Canada,Ontario,2,2003,2014,48.2167,-82.1556,340,MF,1.3,831
+CA-Man,Manitoba - Northern Old Black Spruce (former BOREAS Northern Study Area),Northern Old Black Spruce,Canada,Manitoba,1,1994,2008,55.87962,-98.48081,259,ENF,-3.2,520
+CA-Man,Manitoba - Northern Old Black Spruce (former BOREAS Northern Study Area),Northern Old Black Spruce,Canada,Manitoba,2,1994,2008,55.87962,-98.48081,259,ENF,-3.2,520
+CA-NS1,UCI-1850 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,1,2001,2005,55.87917,-98.48389,260,ENF,-2.89,500.29
+CA-NS1,UCI-1850 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,2,2001,2005,55.87917,-98.48389,260,ENF,-2.89,500.29
+CA-NS2,UCI-1930 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,1,2001,2005,55.90583,-98.52472,260,ENF,-2.88,499.82
+CA-NS2,UCI-1930 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,2,2001,2005,55.90583,-98.52472,260,ENF,-2.88,499.82
+CA-NS3,UCI-1964 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,1,2001,2005,55.91167,-98.38222,260,ENF,-2.87,502.22
+CA-NS3,UCI-1964 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,2,2001,2005,55.91167,-98.38222,260,ENF,-2.87,502.22
+CA-NS4,UCI-1964 burn site wet,"burn site wet, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,1,2002,2005,55.91437,-98.380645,260,ENF,-2.87,502.22
+CA-NS4,UCI-1964 burn site wet,"burn site wet, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,2,2002,2005,55.91437,-98.380645,260,ENF,-2.87,502.22
+CA-NS5,UCI-1981 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,1,2001,2005,55.86306,-98.485,260,ENF,-2.86,500.34
+CA-NS5,UCI-1981 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,2,2001,2005,55.86306,-98.485,260,ENF,-2.86,500.34
+CA-NS6,UCI-1989 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,1,2001,2005,55.91667,-98.96444,244,OSH,-3.08,495.37
+CA-NS6,UCI-1989 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,2,2001,2005,55.91667,-98.96444,244,OSH,-3.08,495.37
+CA-NS7,UCI-1998 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,1,2002,2005,56.63583,-99.94833,297,OSH,-3.52,483.27
+CA-NS7,UCI-1998 burn site,"burn site, evergreen needleleaf forest, Black Spruce",Canada,Manitoba,2,2002,2005,56.63583,-99.94833,297,OSH,-3.52,483.27
+CA-Oas,"Saskatchewan - Western Boreal, Mature Aspen","Western Boreal, Mature Aspen",Canada,Saskatchewan,2,1996,2010,53.62889,-106.19779,530,DBF,0.34,428.53
+CA-Obs,"Saskatchewan - Western Boreal, Mature Black Spruce","Western Boreal, Mature Black Spruce",Canada,Saskatchewan,2,1997,2010,53.98717,-105.11779,629,ENF,0.79,405.6
+CA-Qfo,"Quebec - Eastern Boreal, Mature Black Spruce","Eastern Boreal, Mature Black Spruce",Canada,Quebec,1,2003,2010,49.6925,-74.34206,382,ENF,-0.36,962.32
+CA-Qfo,"Quebec - Eastern Boreal, Mature Black Spruce","Eastern Boreal, Mature Black Spruce",Canada,Quebec,2,2003,2010,49.6925,-74.34206,382,ENF,-0.36,962.32
+CA-SF1,"Saskatchewan - Western Boreal, forest burned in 1977","Western Boreal, forest burned in 1977",Canada,Saskatchewan,1,2003,2006,54.48503,-105.81757,536,ENF,0.4,470
+CA-SF1,"Saskatchewan - Western Boreal, forest burned in 1977","Western Boreal, forest burned in 1977",Canada,Saskatchewan,2,2003,2006,54.48503,-105.81757,536,ENF,0.4,470
+CA-SF2,"Saskatchewan - Western Boreal, forest burned in 1989","Western Boreal, forest burned in 1989",Canada,Saskatchewan,1,2001,2005,54.25392,-105.8775,520,ENF,0.4,470
+CA-SF2,"Saskatchewan - Western Boreal, forest burned in 1989","Western Boreal, forest burned in 1989",Canada,Saskatchewan,2,2001,2005,54.25392,-105.8775,520,ENF,0.4,470
+CA-SF3,"Saskatchewan - Western Boreal, forest burned in 1998","Western Boreal, forest burned in 1998",Canada,Saskatchewan,1,2001,2006,54.09156,-106.00526,540,OSH,0.4,470
+CA-SF3,"Saskatchewan - Western Boreal, forest burned in 1998","Western Boreal, forest burned in 1998",Canada,Saskatchewan,2,2001,2006,54.09156,-106.00526,540,OSH,0.4,470
+CA-TP1,Ontario - Turkey Point 2002 Plantation White Pine,Plantation White Pine,Canada,Ontario,2,2002,2014,42.66093611,-80.55951944,265,ENF,8,1036
+CA-TP2,Ontario - Turkey Point 1989 Plantation White Pine,Plantation White Pine,Canada,Ontario,2,2002,2007,42.77441944,-80.458775,212,ENF,8,1036
+CA-TP3,Ontario - Turkey Point 1974 Plantation White Pine,Plantation White Pine,Canada,Ontario,2,2002,2014,42.70681111,-80.34831389,184,ENF,8,1036
+CA-TP4,Ontario - Turkey Point 1939 Plantation White Pine,Plantation White Pine,Canada,Ontario,2,2002,2014,42.710161,-80.357376,184,ENF,8,1036
+CA-TPD,Ontario - Turkey Point Mature Deciduous,Mature Deciduous,Canada,Ontario,2,2012,2014,42.635328,-80.557731,260,DBF,8,1036
+CG-Tch,Tchizalamou,savanna,Republic of the Congo,NA,2,2006,2009,-4.28917,11.65642,82,SAV,25.7,1150
+CH-Cha,Chamau,grassland with wetland,Switzerland,NA,1,2005,2014,47.21022,8.41044,393,GRA,9.5,1136
+CH-Cha,Chamau,grassland with wetland,Switzerland,NA,2,2005,2014,47.21022,8.41044,393,GRA,9.5,1136
+CH-Dav,Davos,evergreen needleleaf forest,Switzerland,NA,1,1997,2014,46.81533,9.85591,1639,ENF,2.8,1062
+CH-Dav,Davos,evergreen needleleaf forest,Switzerland,NA,2,1997,2014,46.81533,9.85591,1639,ENF,2.8,1062
+CH-Fru,Früebüel,grassland with wetland,Switzerland,NA,1,2005,2014,47.11583,8.53778,982,GRA,7.2,1651
+CH-Fru,Früebüel,grassland with wetland,Switzerland,NA,2,2005,2014,47.11583,8.53778,982,GRA,7.2,1651
+CH-Lae,Laegern,mixed forest,Switzerland,NA,1,2004,2014,47.47808,8.365,689,MF,8.3,1100
+CH-Lae,Laegern,mixed forest,Switzerland,NA,2,2004,2014,47.47808,8.365,689,MF,8.3,1100
+CH-Oe1,Oensingen grassland,grassland with wetland,Switzerland,NA,1,2002,2008,47.28583,7.73194,450,GRA,9,1100
+CH-Oe1,Oensingen grassland,grassland with wetland,Switzerland,NA,2,2002,2008,47.28583,7.73194,450,GRA,9,1100
+CH-Oe2,Oensingen crop,cropland,Switzerland,NA,1,2004,2014,47.28631,7.73433,452,CRO,9.8,1155
+CH-Oe2,Oensingen crop,cropland,Switzerland,NA,2,2004,2014,47.28631,7.73433,452,CRO,9.8,1155
+CN-Cha,Changbaishan,mixed forest,China,NA,1,2003,2005,42.4025,128.0958,NA,MF,2.16,663.59
+CN-Cha,Changbaishan,mixed forest,China,NA,2,2003,2005,42.4025,128.0958,NA,MF,2.16,663.59
+CN-Cng,Changling,grassland with wetland,China,NA,1,2007,2010,44.5934,123.5092,NA,GRA,NA,NA
+CN-Cng,Changling,grassland with wetland,China,NA,2,2007,2010,44.5934,123.5092,NA,GRA,NA,NA
+CN-Dan,Dangxiong,grassland with wetland,China,NA,1,2004,2005,30.4978,91.0664,NA,GRA,-1.54,246.88
+CN-Dan,Dangxiong,grassland with wetland,China,NA,2,2004,2005,30.4978,91.0664,NA,GRA,-1.54,246.88
+CN-Din,Dinghushan,evergreen broadleaf forest,China,NA,1,2003,2005,23.1733,112.5361,NA,EBF,19.64,1618.1
+CN-Din,Dinghushan,evergreen broadleaf forest,China,NA,2,2003,2005,23.1733,112.5361,NA,EBF,19.64,1618.1
+CN-Du2,Duolun_grassland (D01),grassland with wetland,China,NA,1,2006,2008,42.0467,116.2836,NA,GRA,2.01,318.96
+CN-Du2,Duolun_grassland (D01),grassland with wetland,China,NA,2,2006,2008,42.0467,116.2836,NA,GRA,2.01,318.96
+CN-Du3,Duolun Degraded Meadow,"grassland with wetland, degraded meadow",China,NA,2,2009,2010,42.0551,116.2809,NA,GRA,NA,NA
+CN-Ha2,Haibei Shrubland,"wetland, shrubland",China,NA,1,2003,2005,37.6086,101.3269,NA,WET,NA,NA
+CN-Ha2,Haibei Shrubland,"wetland, shrubland",China,NA,2,2003,2005,37.6086,101.3269,NA,WET,NA,NA
+CN-HaM,Haibei Alpine Tibet site,grassland with wetland,China,NA,1,2002,2004,37.37,101.18,NA,GRA,NA,NA
+CN-HaM,Haibei Alpine Tibet site,grassland with wetland,China,NA,2,2002,2004,37.37,101.18,NA,GRA,NA,NA
+CN-Qia,Qianyanzhou,evergreen needleleaf forest,China,NA,1,2003,2005,26.7414,115.0581,NA,ENF,18.95,1466.75
+CN-Qia,Qianyanzhou,evergreen needleleaf forest,China,NA,2,2003,2005,26.7414,115.0581,NA,ENF,18.95,1466.75
+CN-Sw2,Siziwang Grazed (SZWG),grassland with wetland,China,NA,1,2010,2012,41.7902,111.8971,NA,GRA,NA,NA
+CN-Sw2,Siziwang Grazed (SZWG),grassland with wetland,China,NA,2,2010,2012,41.7902,111.8971,NA,GRA,NA,NA
+CZ-BK1,Bily Kriz forest,evergeen needleleaf forest,Czech Republic,NA,1,2004,2008,49.50213,18.53686,875,ENF,6.7,1316
+CZ-BK1,Bily Kriz forest,evergeen needleleaf forest,Czech Republic,NA,2,2004,2014,49.50213,18.53686,875,ENF,6.7,1316
+CZ-BK2,Bily Kriz grassland,grassland with wetland,Czech Republic,NA,1,2004,2006,49.49443,18.54285,855,GRA,6.7,1316
+CZ-BK2,Bily Kriz grassland,grassland with wetland,Czech Republic,NA,2,2004,2012,49.49443,18.54285,855,GRA,6.7,1316
+CZ-wet,Trebon (CZECHWET),wetland,Czech Republic,NA,1,2006,2014,49.02465,14.77035,426,WET,7.7,604
+CZ-wet,Trebon (CZECHWET),wetland,Czech Republic,NA,2,2006,2014,49.02465,14.77035,426,WET,7.7,604
+DE-Akm,Anklam,wetland,Germany,NA,1,2009,2014,53.86617,13.68342,-1,WET,8.7,558
+DE-Akm,Anklam,wetland,Germany,NA,2,2009,2014,53.86617,13.68342,-1,WET,8.7,558
+DE-Geb,Gebesee,cropland,Germany,NA,1,2001,2014,51.1001,10.9143,161.5,CRO,8.5,470
+DE-Geb,Gebesee,cropland,Germany,NA,2,2001,2014,51.1001,10.9143,161.5,CRO,8.5,470
+DE-Gri,Grillenburg,grassland with wetland,Germany,NA,1,2004,2014,50.95004,13.51259,385,GRA,7.8,901
+DE-Gri,Grillenburg,grassland with wetland,Germany,NA,2,2004,2014,50.95004,13.51259,385,GRA,7.8,901
+DE-Hai,Hainich,deciduous broadleaf forest,Germany,NA,1,2000,2012,51.07917,10.453,430,DBF,8.3,720
+DE-Hai,Hainich,deciduous broadleaf forest,Germany,NA,2,2000,2012,51.07917,10.453,430,DBF,8.3,720
+DE-Kli,Klingenberg,cropland,Germany,NA,1,2004,2014,50.89306,13.52238,478,CRO,7.6,842
+DE-Kli,Klingenberg,cropland,Germany,NA,2,2004,2014,50.89306,13.52238,478,CRO,7.6,842
+DE-Lkb,Lackenberg,evergreen needleleaf forest,Germany,NA,1,2009,2013,49.09962,13.30467,1308,ENF,4,1599
+DE-Lkb,Lackenberg,evergreen needleleaf forest,Germany,NA,2,2009,2013,49.09962,13.30467,1308,ENF,4,1599
+DE-Lnf,Leinefelde,deciduous broadleaf forest,Germany,NA,2,2002,2012,51.32822,10.3678,451,DBF,6.96,894.6
+DE-Obe,Oberbärenburg,evergreen needleleaf forest,Germany,NA,1,2008,2014,50.78666,13.72129,734,ENF,5.5,996
+DE-Obe,Oberbärenburg,evergreen needleleaf forest,Germany,NA,2,2008,2014,50.78666,13.72129,734,ENF,5.5,996
+DE-RuR,Rollesbroich,grassland with wetland,Germany,NA,1,2011,2014,50.62191,6.30413,514.7,GRA,7.7,1033
+DE-RuR,Rollesbroich,grassland with wetland,Germany,NA,2,2011,2014,50.62191,6.30413,514.7,GRA,7.7,1033
+DE-RuS,Selhausen Juelich,cropland,Germany,NA,1,2011,2014,50.86591,6.44717,102.755,CRO,10,700
+DE-RuS,Selhausen Juelich,cropland,Germany,NA,2,2011,2014,50.86591,6.44717,102.755,CRO,10,700
+DE-Seh,Selhausen,cropland,Germany,NA,1,2007,2010,50.87062,6.44965,103,CRO,9.9,693
+DE-Seh,Selhausen,cropland,Germany,NA,2,2007,2010,50.87062,6.44965,103,CRO,9.9,693
+DE-SfN,Schechenfilz Nord,wetland,Germany,NA,1,2012,2014,47.80639,11.3275,590,WET,8.6,1127
+DE-SfN,Schechenfilz Nord,wetland,Germany,NA,2,2012,2014,47.80639,11.3275,590,WET,8.6,1127
+DE-Spw,Spreewald,wetland,Germany,NA,1,2010,2014,51.89225,14.03369,61,WET,8.7,558
+DE-Spw,Spreewald,wetland,Germany,NA,2,2010,2014,51.89225,14.03369,61,WET,8.7,558
+DE-Tha,Tharandt,evergreen needleleaf forest,Germany,NA,1,1996,2014,50.96235,13.56516,385,ENF,8.2,843
+DE-Tha,Tharandt,evergreen needleleaf forest,Germany,NA,2,1996,2014,50.96235,13.56516,385,ENF,8.2,843
+DE-Zrk,Zarnekow,wetland,Germany,NA,2,2013,2014,53.87594,12.88901,0,WET,8.7,584
+DK-Eng,Enghave,grassland with wetland,Denmark,NA,2,2005,2008,55.69053,12.19175,10,GRA,8,613
+DK-Fou,Foulum,cropland,Denmark,NA,1,2005,2005,56.4842,9.58722,51,CRO,8,NA
+DK-Fou,Foulum,cropland,Denmark,NA,2,2005,2005,56.4842,9.58722,51,CRO,8,NA
+DK-NuF,Nuuk Fen,wetland,Greenland,NA,1,2008,2014,64.13083,-51.38611,50,WET,-1.4,750
+DK-NuF,Nuuk Fen,wetland,Greenland,NA,2,2008,2014,64.13083,-51.38611,50,WET,-1.4,750
+DK-Sor,Soroe,deciduous broadleaf forest,Denmark,NA,1,1996,2014,55.48587,11.64464,40,DBF,8.2,660
+DK-Sor,Soroe,deciduous broadleaf forest,Denmark,NA,2,1996,2014,55.48587,11.64464,40,DBF,8.2,660
+DK-ZaF,Zackenberg Fen,wetland,Denmark,NA,1,2008,2011,74.48143,-20.55452,38,WET,-9,211
+DK-ZaF,Zackenberg Fen,wetland,Denmark,NA,2,2008,2011,74.48143,-20.55452,38,WET,-9,211
+DK-ZaH,Zackenberg Heath,grassland with wetland,Denmark,NA,1,2000,2014,74.47328,-20.5503,38,GRA,-9,211
+DK-ZaH,Zackenberg Heath,grassland with wetland,Denmark,NA,2,2000,2014,74.47328,-20.5503,38,GRA,-9,211
+ES-Amo,Amoladeras,open shrubland,Spain,NA,2,2007,2012,36.83361,-2.25232,58,OSH,NA,0
+ES-LgS,Laguna Seca,open shrubland,Spain,NA,1,2007,2009,37.09794,-2.96583,2267,OSH,NA,NA
+ES-LgS,Laguna Seca,open shrubland,Spain,NA,2,2007,2009,37.09794,-2.96583,2267,OSH,NA,NA
+ES-LJu,Llano de los Juanes,open shrubland,Spain,NA,2,2004,2013,36.92659,-2.75212,1600,OSH,16,400
+ES-Ln2,Lanjaron-Salvage logging,"open shrubland, salvage logging",Spain,NA,1,2009,2009,36.9695,-3.47582,2249,OSH,NA,NA
+ES-Ln2,Lanjaron-Salvage logging,"open shrubland, salvage logging",Spain,NA,2,2009,2009,36.9695,-3.47582,2249,OSH,NA,NA
+FI-Hyy,Hyytiala,evergreen needleleaf forest,Finland,NA,1,1996,2014,61.84741,24.29477,181,ENF,3.8,709
+FI-Hyy,Hyytiala,evergreen needleleaf forest,Finland,NA,2,1996,2014,61.84741,24.29477,181,ENF,3.8,709
+FI-Jok,Jokioinen,cropland,Finland,NA,1,2000,2003,60.8986,23.51345,109,CRO,4.6,627
+FI-Jok,Jokioinen,cropland,Finland,NA,2,2000,2003,60.8986,23.51345,109,CRO,4.6,627
+FI-Let,Lettosuo,evergreen needleleaf forest,Finland,NA,2,2009,2012,60.64183,23.95952,119,ENF,NA,NA
+FI-Lom,Lompolojankka,wetland,Finland,NA,1,2007,2009,67.99724,24.20918,274,WET,-1.4,484
+FI-Lom,Lompolojankka,wetland,Finland,NA,2,2007,2009,67.99724,24.20918,274,WET,-1.4,484
+FI-Sod,Sodankyla,evergreen needleleaf forest,Finland,NA,1,2001,2014,67.36239,26.63859,180,ENF,-1,500
+FI-Sod,Sodankyla,evergreen needleleaf forest,Finland,NA,2,2001,2014,67.36239,26.63859,180,ENF,-1,500
+FR-Fon,Fontainebleau-Barbeau,deciduous broadleaf forest,France,NA,1,2005,2014,48.47636,2.7801,103,DBF,10.2,720
+FR-Fon,Fontainebleau-Barbeau,deciduous broadleaf forest,France,NA,2,2005,2014,48.47636,2.7801,103,DBF,10.2,720
+FR-Gri,Grignon,cropland,France,NA,1,2004,2013,48.84422,1.95191,125,CRO,12,650
+FR-Gri,Grignon,cropland,France,NA,2,2004,2014,48.84422,1.95191,125,CRO,12,650
+FR-LBr,Le Bray,evergreen needleleaf forest,France,NA,1,1996,2008,44.71711,-0.7693,61,ENF,13.6,900
+FR-LBr,Le Bray,evergreen needleleaf forest,France,NA,2,1996,2008,44.71711,-0.7693,61,ENF,13.6,900
+FR-Pue,Puechabon,evergreen broadleaf forest,France,NA,1,2000,2014,43.7413,3.5957,270,EBF,13.5,883
+FR-Pue,Puechabon,evergreen broadleaf forest,France,NA,2,2000,2014,43.7413,3.5957,270,EBF,13.5,883
+GF-Guy,Guyaflux (French Guiana),evergreen broadleaf forest,French Guiana,NA,1,2004,2014,5.27877,-52.92486,48,EBF,25.7,3041
+GF-Guy,Guyaflux (French Guiana),evergreen broadleaf forest,French Guiana,NA,2,2004,2014,5.27877,-52.92486,48,EBF,25.7,3041
+GH-Ank,Ankasa,evergreen broadleaf forest,Ghana,NA,2,2011,2014,5.26854,-2.69421,124,EBF,26,1900
+IT-BCi,Borgo Cioffi,cropland,Italy,NA,1,2004,2014,40.52375,14.95744,20,CRO,18,600
+IT-BCi,Borgo Cioffi,cropland,Italy,NA,2,2004,2014,40.52375,14.95744,20,CRO,18,600
+IT-CA1,Castel d'Asso1,deciduous broadleaf forest,Italy,NA,1,2011,2014,42.38041,12.02656,200,DBF,14,766
+IT-CA1,Castel d'Asso1,deciduous broadleaf forest,Italy,NA,2,2011,2014,42.38041,12.02656,200,DBF,14,766
+IT-CA2,Castel d'Asso2,cropland,Italy,NA,1,2011,2014,42.37722,12.02604,200,CRO,14,766
+IT-CA2,Castel d'Asso2,cropland,Italy,NA,2,2011,2014,42.37722,12.02604,200,CRO,14,766
+IT-CA3,Castel d'Asso3,deciduous broadleaf forest,Italy,NA,1,2011,2014,42.38,12.0222,197,DBF,14,766
+IT-CA3,Castel d'Asso3,deciduous broadleaf forest,Italy,NA,2,2011,2014,42.38,12.0222,197,DBF,14,766
+IT-Col,Collelongo,deciduous broadleaf forest,Italy,NA,1,1996,2014,41.84936,13.58814,1560,DBF,6.3,1180
+IT-Col,Collelongo,deciduous broadleaf forest,Italy,NA,2,1996,2014,41.84936,13.58814,1560,DBF,6.3,1180
+IT-Cp2,Castelporziano2,evergreen broadleaf forest,Italy,NA,1,2012,2014,41.70427,12.35729,19,EBF,15.2,805
+IT-Cp2,Castelporziano2,evergreen broadleaf forest,Italy,NA,2,2012,2014,41.70427,12.35729,19,EBF,15.2,805
+IT-Cpz,Castelporziano,evergreen broadleaf forest,Italy,NA,1,1997,2009,41.70525,12.37611,68,EBF,15.6,780
+IT-Cpz,Castelporziano,evergreen broadleaf forest,Italy,NA,2,1997,2009,41.70525,12.37611,68,EBF,15.6,780
+IT-Isp,Ispra ABC-IS,deciduous broadleaf forest,Italy,NA,1,2013,2014,45.81264,8.63358,210,DBF,12.2,1300
+IT-Isp,Ispra ABC-IS,deciduous broadleaf forest,Italy,NA,2,2013,2014,45.81264,8.63358,210,DBF,12.2,1300
+IT-La2,Lavarone2,evergreen needleleaf forest,Italy,NA,1,2000,2002,45.9542,11.2853,1350,ENF,7.2,1150
+IT-La2,Lavarone2,evergreen needleleaf forest,Italy,NA,2,2000,2002,45.9542,11.2853,1350,ENF,7.2,1150
+IT-Lav,Lavarone,evergreen needleleaf forest,Italy,NA,1,2003,2014,45.9562,11.28132,1353,ENF,7.8,1291
+IT-Lav,Lavarone,evergreen needleleaf forest,Italy,NA,2,2003,2014,45.9562,11.28132,1353,ENF,7.8,1291
+IT-MBo,Monte Bondone,grassland with wetland,Italy,NA,1,2003,2013,46.01468,11.04583,1550,GRA,5.1,1214
+IT-MBo,Monte Bondone,grassland with wetland,Italy,NA,2,2003,2013,46.01468,11.04583,1550,GRA,5.1,1214
+IT-Noe,Arca di Noe - Le Prigionette,closed shrubland,Italy,NA,1,2004,2014,40.60618,8.15117,25,CSH,15.9,588
+IT-Noe,Arca di Noe - Le Prigionette,closed shrubland,Italy,NA,2,2004,2014,40.60618,8.15117,25,CSH,15.9,588
+IT-PT1,Parco Ticino forest,deciduous broadleaf forest,Italy,NA,1,2002,2004,45.20087,9.06104,60,DBF,12.7,984
+IT-PT1,Parco Ticino forest,deciduous broadleaf forest,Italy,NA,2,2002,2004,45.20087,9.06104,60,DBF,12.7,984
+IT-Ren,Renon,evergreen needleleaf forest,Italy,NA,1,1998,2013,46.58686,11.43369,1730,ENF,4.7,809.3
+IT-Ren,Renon,evergreen needleleaf forest,Italy,NA,2,1998,2013,46.58686,11.43369,1730,ENF,4.7,809.3
+IT-Ro1,Roccarespampani 1,deciduous broadleaf forest,Italy,NA,1,2000,2008,42.40812,11.93001,235,DBF,15.15,876.2
+IT-Ro1,Roccarespampani 1,deciduous broadleaf forest,Italy,NA,2,2000,2008,42.40812,11.93001,235,DBF,15.15,876.2
+IT-Ro2,Roccarespampani 2,deciduous broadleaf forest,Italy,NA,1,2002,2012,42.39026,11.92093,160,DBF,15.15,876.2
+IT-Ro2,Roccarespampani 2,deciduous broadleaf forest,Italy,NA,2,2002,2012,42.39026,11.92093,160,DBF,15.15,876.2
+IT-SR2,San Rossore 2,evergreen needleleaf forest,Italy,NA,1,2013,2014,43.73203,10.29095,4,ENF,14.2,920
+IT-SR2,San Rossore 2,evergreen needleleaf forest,Italy,NA,2,2013,2014,43.73203,10.29095,4,ENF,14.2,920
+IT-SRo,San Rossore,evergreen needleleaf forest,Italy,NA,1,1999,2012,43.72786,10.28444,6,ENF,14.2,920
+IT-SRo,San Rossore,evergreen needleleaf forest,Italy,NA,2,1999,2012,43.72786,10.28444,6,ENF,14.2,920
+IT-Tor,Torgnon,grassland with wetland,Italy,NA,1,2008,2014,45.84444,7.57806,2160,GRA,2.9,920
+IT-Tor,Torgnon,grassland with wetland,Italy,NA,2,2008,2014,45.84444,7.57806,2160,GRA,2.9,920
+JP-MBF,Moshiri Birch Forest Site,"deciduous broadleaf forest, Birch Forest",Japan,NA,1,2003,2005,44.3869,142.3186,NA,DBF,NA,NA
+JP-MBF,Moshiri Birch Forest Site,"deciduous broadleaf forest, Birch Forest",Japan,NA,2,2003,2005,44.3869,142.3186,NA,DBF,NA,NA
+JP-SMF,Seto Mixed Forest Site,mixed forest,Japan,NA,1,2002,2006,35.2617,137.0788,NA,MF,NA,NA
+JP-SMF,Seto Mixed Forest Site,mixed forest,Japan,NA,2,2002,2006,35.2617,137.0788,NA,MF,NA,NA
+MY-PSO,Pasoh Forest Reserve (PSO),evergreen broadleaf forest,Malaysia,NA,2,2003,2009,2.973,102.3062,NA,EBF,NA,NA
+NL-Hor,Horstermeer,grassland with wetland,Netherlands,NA,1,2004,2011,52.24035,5.0713,2.2,GRA,10,800
+NL-Hor,Horstermeer,grassland with wetland,Netherlands,NA,2,2004,2011,52.24035,5.0713,2.2,GRA,10,800
+NL-Loo,Loobos,evergreen needleleaf forest,Netherlands,NA,1,1996,2013,52.16658,5.74356,25,ENF,9.8,786
+NL-Loo,Loobos,evergreen needleleaf forest,Netherlands,NA,2,1996,2014,52.16658,5.74356,25,ENF,9.8,786
+NO-Adv,Adventdalen,wetland,Norway,NA,1,2011,2014,78.186,15.923,17,WET,NA,NA
+NO-Adv,Adventdalen,wetland,Norway,NA,2,2011,2014,78.186,15.923,17,WET,NA,NA
+NO-Blv,"Bayelva, Spitsbergen",snow,Norway,NA,1,2008,2009,78.92163,11.83109,25,SNO,-4.5,400
+NO-Blv,"Bayelva, Spitsbergen",snow,Norway,NA,2,2008,2009,78.92163,11.83109,25,SNO,-4.5,400
+PA-SPn,Sardinilla Plantation,"deciduous broadleaf forest, Plantation",Panama,NA,2,2007,2009,9.31814,-79.6346,78,DBF,26.5,2350
+PA-SPs,Sardinilla-Pasture,"grassland with wetland, Pasture",Panama,NA,2,2007,2009,9.31378,-79.63143,68,GRA,26.5,2350
+RU-Che,Cherski,wetland,Russia,NA,1,2002,2005,68.61304,161.34143,6,WET,-11,197
+RU-Che,Cherski,wetland,Russia,NA,2,2002,2005,68.61304,161.34143,6,WET,-11,197
+RU-Cok,Chokurdakh,open shrubland,Russia,NA,1,2003,2014,70.82914,147.49428,48,OSH,-14.3,232
+RU-Cok,Chokurdakh,open shrubland,Russia,NA,2,2003,2014,70.82914,147.49428,48,OSH,-14.3,232
+RU-Fyo,Fyodorovskoye,evergreen needleleaf forest,Russia,NA,1,1998,2014,56.46153,32.92208,265,ENF,3.9,711
+RU-Fyo,Fyodorovskoye,evergreen needleleaf forest,Russia,NA,2,1998,2014,56.46153,32.92208,265,ENF,3.9,711
+RU-Ha1,Hakasia steppe,grassland with wetland,Russia,NA,1,2002,2004,54.72517,90.00215,446,GRA,-0.07,591.87
+RU-Ha1,Hakasia steppe,grassland with wetland,Russia,NA,2,2002,2004,54.72517,90.00215,446,GRA,-0.07,591.87
+RU-Sam,Samoylov,grassland with wetland,Russia,NA,2,2002,2014,72.3738,126.4958,NA,GRA,NA,NA
+RU-SkP,Yakutsk Spasskaya Pad larch,deciduous needleleaf forest,Russia,NA,2,2012,2014,62.255,129.168,246,DNF,NA,NA
+RU-Tks,Tiksi,grassland with wetland,Russia,NA,2,2010,2014,71.59427,128.88782,7,GRA,-12.7,323
+RU-Vrk,Seida/Vorkuta,closed shrubland,Russia,NA,2,2008,2008,67.05468,62.94047,100,CSH,-5.6,501
+SD-Dem,Demokeya,savanna,Sudan,NA,1,2005,2009,13.2829,30.4783,500,SAV,26,320
+SD-Dem,Demokeya,savanna,Sudan,NA,2,2005,2009,13.2829,30.4783,500,SAV,26,320
+SE-St1,Stordalen grassland,wetland,Sweden,NA,2,2012,2014,68.35415,19.05033,351,WET,-0.7,303.3
+SN-Dhr,Dahra,savanna,Senegal,NA,1,2010,2013,15.40278,-15.43222,40,SAV,29,404
+SN-Dhr,Dahra,savanna,Senegal,NA,2,2010,2013,15.40278,-15.43222,40,SAV,29,404
+US-AR1,ARM USDA UNL OSU Woodward Switchgrass 1,"grassland with wetland, former native prairie and changing to switchgrass",United States,Oklahoma,1,2009,2012,36.4267,-99.42,611,GRA,NA,NA
+US-AR1,ARM USDA UNL OSU Woodward Switchgrass 1,"grassland with wetland, former native prairie and changing to switchgrass",United States,Oklahoma,2,2009,2012,36.4267,-99.42,611,GRA,NA,NA
+US-AR2,ARM USDA UNL OSU Woodward Switchgrass 2,"grassland with wetland, former wheat field and changing to switchgrass",United States,Oklahoma,1,2009,2012,36.6358,-99.5975,646,GRA,NA,NA
+US-AR2,ARM USDA UNL OSU Woodward Switchgrass 2,"grassland with wetland, former wheat field and changing to switchgrass",United States,Oklahoma,2,2009,2012,36.6358,-99.5975,646,GRA,NA,NA
+US-ARb,ARM Southern Great Plains burn site- Lamont,"grassland with wetland, burn site",United States,Oklahoma,1,2005,2006,35.5497,-98.0402,424,GRA,NA,NA
+US-ARb,ARM Southern Great Plains burn site- Lamont,"grassland with wetland, burn site",United States,Oklahoma,2,2005,2006,35.5497,-98.0402,424,GRA,NA,NA
+US-ARc,ARM Southern Great Plains control site- Lamont,"grassland with wetland, control site",United States,Oklahoma,1,2005,2006,35.54649,-98.04,424,GRA,NA,NA
+US-ARc,ARM Southern Great Plains control site- Lamont,"grassland with wetland, control site",United States,Oklahoma,2,2005,2006,35.54649,-98.04,424,GRA,NA,NA
+US-ARM,ARM Southern Great Plains site- Lamont,cropland,United States,Oklahoma,1,2003,2012,36.6058,-97.4888,314,CRO,14.76,843
+US-ARM,ARM Southern Great Plains site- Lamont,cropland,United States,Oklahoma,2,2003,2012,36.6058,-97.4888,314,CRO,14.76,843
+US-Atq,Atqasuk,wetland,United States,Alaska,2,2003,2008,70.4696,-157.4089,15,WET,-9.7,93
+US-Blo,Blodgett Forest,evergreen needleleaf forest,United States,California,1,1997,2007,38.8953,-120.6328,1315,ENF,11.09,1226
+US-Blo,Blodgett Forest,evergreen needleleaf forest,United States,California,2,1997,2007,38.8953,-120.6328,1315,ENF,11.09,1226
+US-Cop,Corral Pocket,grassland with wetland,United States,Utah,1,2001,2007,38.09,-109.39,1520,GRA,NA,NA
+US-Cop,Corral Pocket,grassland with wetland,United States,Utah,2,2001,2007,38.09,-109.39,1520,GRA,NA,NA
+US-CRT,Curtice Walter-Berger cropland,cropland,United States,Ohio,2,2011,2013,41.628495,-83.347086,180,CRO,10.1,849
+US-GBT,GLEES Brooklyn Tower,evergreen needleleaf forest,United States,Wyoming,1,1999,2006,41.36579,-106.2397,3191,ENF,0.8,1200
+US-GBT,GLEES Brooklyn Tower,evergreen needleleaf forest,United States,Wyoming,2,1999,2006,41.36579,-106.2397,3191,ENF,0.8,1200
+US-GLE,GLEES,evergreen needleleaf forest,United States,Wyoming,1,2004,2014,41.36653,-106.2399,3197,ENF,0.8,1200
+US-GLE,GLEES,evergreen needleleaf forest,United States,Wyoming,2,2004,2014,41.36653,-106.2399,3197,ENF,0.8,1200
+US-Goo,Goodwin Creek,grassland with wetland,United States,Mississippi,2,2002,2006,34.2547,-89.8735,87,GRA,15.89,1425.77
+US-Ha1,Harvard Forest EMS Tower (HFR1),deciduous broadleaf forest,United States,Massachussetts,1,1991,2012,42.5378,-72.1715,340,DBF,6.62,1071
+US-Ha1,Harvard Forest EMS Tower (HFR1),deciduous broadleaf forest,United States,Massachussetts,2,1991,2012,42.5378,-72.1715,340,DBF,6.62,1071
+US-IB2,Fermi National Accelerator Laboratory- Batavia (Prairie site),"grassland with wetland, prairie site",United States,Illinois,2,2004,2011,41.84062,-88.24103,226.5,GRA,9.04,930.25
+US-Ivo,Ivotuk,wetland,United States,Alaska,2,2004,2007,68.4865,-155.7503,568,WET,-8.28,304
+US-KS1,Kennedy Space Center (slash pine),"evergreen needleleaf forest, slash pine",United States,Florida,2,2002,2002,28.4583,-80.6709,1,ENF,21.9,1266
+US-KS2,Kennedy Space Center (scrub oak),closed shrublands,United States,Florida,1,2003,2006,28.6086,-80.6715,3,CSH,21.66,1294
+US-KS2,Kennedy Space Center (scrub oak),closed shrublands,United States,Florida,2,2003,2006,28.6086,-80.6715,3,CSH,21.66,1294
+US-Lin,Lindcove Orange Orchard,cropland,United States,California,2,2009,2010,36.3566,-119.8423,131,CRO,NA,NA
+US-Los,Lost Creek,wetland,United States,Wisconsin,1,2000,2014,46.0827,-89.9792,480,WET,4.08,828
+US-Los,Lost Creek,wetland,United States,Wisconsin,2,2000,2014,46.0827,-89.9792,480,WET,4.08,828
+US-LWW,Little Washita Watershed,grassland with wetland,United States,Oklahoma,2,1997,1998,34.9604,-97.9789,365,GRA,16.09,805.12
+US-Me1,Metolius - Eyerly burn,evergreen needleleaf forest,United States,Oregon,1,2004,2005,44.5794,-121.5,896,ENF,7.88,704.61
+US-Me1,Metolius - Eyerly burn,evergreen needleleaf forest,United States,Oregon,2,2004,2005,44.5794,-121.5,896,ENF,7.88,704.61
+US-Me2,Metolius mature ponderosa pine,evergreen needleleaf forest,United States,Oregon,1,2002,2014,44.4523,-121.5574,1253,ENF,6.28,523
+US-Me2,Metolius mature ponderosa pine,evergreen needleleaf forest,United States,Oregon,2,2002,2014,44.4523,-121.5574,1253,ENF,6.28,523
+US-Me3,Metolius-second young aged pine,evergreen needleleaf forest,United States,Oregon,2,2004,2009,44.3154,-121.6078,1005,ENF,7.07,719
+US-Me4,Metolius-old aged ponderosa pine,evergreen needleleaf forest,United States,Oregon,2,1996,2000,44.4992,-121.6224,922,ENF,7.61,1038.82
+US-Me5,Metolius-first young aged pine,evergreen needleleaf forest,United States,Oregon,2,2000,2002,44.43719,-121.56676,1188,ENF,6.47,590.81
+US-Me6,Metolius Young Pine Burn,evergreen needleleaf forest,United States,Oregon,1,2010,2014,44.3232842,-121.6078,998,ENF,7.59,494.34
+US-Me6,Metolius Young Pine Burn,evergreen needleleaf forest,United States,Oregon,2,2010,2014,44.3232842,-121.6078,998,ENF,7.59,494.34
+US-MMS,Morgan Monroe State Forest,deciduous broadleaf forest,United States,Indiana,1,1999,2014,39.3232,-86.4131,275,DBF,10.85,1032
+US-MMS,Morgan Monroe State Forest,deciduous broadleaf forest,United States,Indiana,2,1999,2014,39.3232,-86.4131,275,DBF,10.85,1032
+US-Myb,Mayberry Wetland,wetland,United States,California,1,2010,2014,38.049861,-121.76498,-4,WET,15.9,338
+US-Myb,Mayberry Wetland,wetland,United States,California,2,2010,2014,38.049861,-121.76498,-4,WET,15.9,338
+US-Ne1,Mead - irrigated continuous maize site,"cropland, irrigated continuous maize",United States,Nebraska,1,2001,2013,41.16506,-96.47664,361,CRO,10.07,790.37
+US-Ne1,Mead - irrigated continuous maize site,"cropland, irrigated continuous maize",United States,Nebraska,2,2001,2013,41.16506,-96.47664,361,CRO,10.07,790.37
+US-Ne2,Mead - irrigated maize-soybean rotation site,"cropland,  irrigated maize-soybean rotation",United States,Nebraska,1,2001,2013,41.16487,-96.4701,362,CRO,10.08,788.89
+US-Ne2,Mead - irrigated maize-soybean rotation site,"cropland,  irrigated maize-soybean rotation",United States,Nebraska,2,2001,2013,41.16487,-96.4701,362,CRO,10.08,788.89
+US-Ne3,Mead - rainfed maize-soybean rotation site,"cropland,  rainfed maize-soybean rotation",United States,Nebraska,1,2001,2013,41.17967,-96.43965,363,CRO,10.11,783.68
+US-Ne3,Mead - rainfed maize-soybean rotation site,"cropland,  rainfed maize-soybean rotation",United States,Nebraska,2,2001,2013,41.17967,-96.43965,363,CRO,10.11,783.68
+US-NR1,Niwot Ridge Forest (LTER NWT1),evergreen needleleaf forest,United States,Colorado,1,1998,2014,40.0329,-105.5464,3050,ENF,1.5,800
+US-NR1,Niwot Ridge Forest (LTER NWT1),evergreen needleleaf forest,United States,Colorado,2,1998,2014,40.0329,-105.5464,3050,ENF,1.5,800
+US-Oho,Oak Openings,deciduous broadleaf forest,United States,Ohio,2,2004,2013,41.5545,-83.8438,230,DBF,10.1,849
+US-ORv,Olentangy River Wetland Research Park,wetland,United States,Ohio,1,2011,2011,40.0201,-83.0183,221,WET,11.63,1499.1
+US-ORv,Olentangy River Wetland Research Park,wetland,United States,Ohio,2,2011,2011,40.0201,-83.0183,221,WET,11.63,1499.1
+US-PFa,Park Falls/WLEF,mixed forest,United States,Wisconsin,1,1995,2014,45.9459,-90.2723,470,MF,4.33,823
+US-PFa,Park Falls/WLEF,mixed forest,United States,Wisconsin,2,1995,2014,45.9459,-90.2723,470,MF,4.33,823
+US-Prr,Poker Flat Research Range Black Spruce Forest,"evergreen needleleaf forest, Black Spruce",United States,Alaska,1,2010,2013,65.12367,-147.48756,210,ENF,-2,275
+US-Prr,Poker Flat Research Range Black Spruce Forest,"evergreen needleleaf forest, Black Spruce",United States,Alaska,2,2010,2014,65.12367,-147.48756,210,ENF,-2,275
+US-SRC,Santa Rita Creosote,mixed forest,United States,Arizona,2,2008,2014,31.9083,-110.8395,950,MF,22,330
+US-SRG,Santa Rita Grassland,grassland with wetland,United States,Arizona,1,2008,2014,31.789379,-110.827675,1291,GRA,17,420
+US-SRG,Santa Rita Grassland,grassland with wetland,United States,Arizona,2,2008,2014,31.789379,-110.827675,1291,GRA,17,420
+US-SRM,Santa Rita Mesquite,woody savanna,United States,Arizona,1,2004,2014,31.8214,-110.8661,1120,WSA,17.92,380
+US-SRM,Santa Rita Mesquite,woody savanna,United States,Arizona,2,2004,2014,31.8214,-110.8661,1120,WSA,17.92,380
+US-Sta,Saratoga,open shrubland,United States,Wyoming,2,2005,2009,41.3966,-106.8024,2069,OSH,5.1,NA
+US-Syv,Sylvania Wilderness Area,mixed forest,United States,Michigan,1,2001,2014,46.242,-89.3477,540,MF,3.81,826
+US-Syv,Sylvania Wilderness Area,mixed forest,United States,Michigan,2,2001,2014,46.242,-89.3477,540,MF,3.81,826
+US-Ton,Tonzi Ranch,woody savanna,United States,California,1,2001,2014,38.4316,-120.96598,177,WSA,15.8,559
+US-Ton,Tonzi Ranch,woody savanna,United States,California,2,2001,2014,38.4316,-120.96598,177,WSA,15.8,559
+US-Tw1,Twitchell Wetland West Pond,wetland,United States,California,1,2012,2014,38.1074,-121.6469,-9,WET,15.5,421
+US-Tw1,Twitchell Wetland West Pond,wetland,United States,California,2,2012,2014,38.1074,-121.6469,-9,WET,15.5,421
+US-Tw2,Twitchell Corn,cropland,United States,California,1,2012,2013,38.1047,-121.6433,-5,CRO,15.5,421
+US-Tw2,Twitchell Corn,cropland,United States,California,2,2012,2013,38.1047,-121.6433,-5,CRO,15.5,421
+US-Tw3,Twitchell Alfalfa,cropland,United States,California,1,2013,2014,38.1159,-121.6467,-9,CRO,15.6,421
+US-Tw3,Twitchell Alfalfa,cropland,United States,California,2,2013,2014,38.1159,-121.6467,-9,CRO,15.6,421
+US-Tw4,Twitchell East End Wetland,wetland,United States,California,1,2013,2014,38.10298,-121.6414,-5,WET,15.6,421
+US-Tw4,Twitchell East End Wetland,wetland,United States,California,2,2013,2014,38.10298,-121.6414,-5,WET,15.6,421
+US-Twt,Twitchell Island,cropland,United States,California,1,2009,2014,38.1087204,-121.6531,-7,CRO,15.6,421
+US-Twt,Twitchell Island,cropland,United States,California,2,2009,2014,38.1087204,-121.6531,-7,CRO,15.6,421
+US-UMB,Univ. of Mich. Biological Station,deciduous broadleaf forest,United States,Michigan,1,2000,2014,45.5598,-84.7138,234,DBF,5.83,803
+US-UMB,Univ. of Mich. Biological Station,deciduous broadleaf forest,United States,Michigan,2,2000,2014,45.5598,-84.7138,234,DBF,5.83,803
+US-UMd,UMBS Disturbance,deciduous broadleaf forest,United States,Michigan,1,2007,2014,45.5625,-84.6975,239,DBF,5.83,803
+US-UMd,UMBS Disturbance,deciduous broadleaf forest,United States,Michigan,2,2007,2014,45.5625,-84.6975,239,DBF,5.83,803
+US-Var,Vaira Ranch- Ione,grassland with wetland,United States,California,1,2000,2014,38.4133,-120.9507,129,GRA,15.8,559
+US-Var,Vaira Ranch- Ione,grassland with wetland,United States,California,2,2000,2014,38.4133,-120.9507,129,GRA,15.8,559
+US-WCr,Willow Creek,deciduous broadleaf forest,United States,Wisconsin,1,1999,2014,45.8059,-90.0799,520,DBF,4.02,787
+US-WCr,Willow Creek,deciduous broadleaf forest,United States,Wisconsin,2,1999,2014,45.8059,-90.0799,520,DBF,4.02,787
+US-Whs,Walnut Gulch Lucky Hills Shrub,open shrubland,United States,Arizona,1,2007,2014,31.7438,-110.0522,1370,OSH,17.6,320
+US-Whs,Walnut Gulch Lucky Hills Shrub,open shrubland,United States,Arizona,2,2007,2014,31.7438,-110.0522,1370,OSH,17.6,320
+US-Wi0,Young red pine (YRP),evergreen needleleaf forest,United States,Wisconsin,1,2002,2002,46.618778,-91.081444,349,ENF,NA,NA
+US-Wi0,Young red pine (YRP),evergreen needleleaf forest,United States,Wisconsin,2,2002,2002,46.618778,-91.081444,349,ENF,NA,NA
+US-Wi1,Intermediate hardwood (IHW),deciduous broadleaf forest,United States,Wisconsin,2,2003,2003,46.730472,-91.232944,352,DBF,NA,NA
+US-Wi2,Intermediate red pine (IRP),evergreen needleleaf forest,United States,Wisconsin,2,2003,2003,46.686889,-91.152833,395,ENF,NA,NA
+US-Wi3,Mature hardwood (MHW),deciduous broadleaf forest,United States,Wisconsin,1,2002,2004,46.634722,-91.098667,411,DBF,NA,NA
+US-Wi3,Mature hardwood (MHW),deciduous broadleaf forest,United States,Wisconsin,2,2002,2004,46.634722,-91.098667,411,DBF,NA,NA
+US-Wi4,Mature red pine (MRP),evergreen needleleaf forest,United States,Wisconsin,1,2002,2005,46.739333,-91.16625,352,ENF,NA,NA
+US-Wi4,Mature red pine (MRP),evergreen needleleaf forest,United States,Wisconsin,2,2002,2005,46.739333,-91.16625,352,ENF,NA,NA
+US-Wi5,Mixed young jack pine (MYJP),evergreen needleleaf forest,United States,Wisconsin,2,2004,2004,46.653083,-91.085806,353,ENF,NA,NA
+US-Wi6,Pine barrens #1 (PB1),open shrubland,United States,Wisconsin,1,2002,2003,46.624889,-91.298222,371,OSH,NA,NA
+US-Wi6,Pine barrens #1 (PB1),open shrubland,United States,Wisconsin,2,2002,2003,46.624889,-91.298222,371,OSH,NA,NA
+US-Wi7,Red pine clearcut (RPCC),open shrubland,United States,Wisconsin,2,2005,2005,46.649111,-91.069278,335,OSH,NA,NA
+US-Wi8,Young hardwood clearcut (YHW),deciduous broadleaf forest,United States,Wisconsin,2,2002,2002,46.722333,-91.252417,348,DBF,NA,NA
+US-Wi9,Young Jack pine (YJP),evergreen needleleaf forest,United States,Wisconsin,1,2004,2005,46.6187781,-91.0814441,350,ENF,NA,NA
+US-Wi9,Young Jack pine (YJP),evergreen needleleaf forest,United States,Wisconsin,2,2004,2005,46.6187781,-91.0814441,350,ENF,NA,NA
+US-Wkg,Walnut Gulch Kendall Grasslands,grassland with wetland,United States,Arizona,1,2004,2014,31.7365,-109.9419,1531,GRA,15.64,407
+US-Wkg,Walnut Gulch Kendall Grasslands,grassland with wetland,United States,Arizona,2,2004,2014,31.7365,-109.9419,1531,GRA,15.64,407
+US-WPT,Winous Point North Marsh,wetland,United States,Ohio,2,2011,2013,41.464639,-82.996157,175,WET,10.1,849
+ZA-Kru,Skukuza,savanna,South Africa,NA,1,2000,2010,-25.0197,31.4969,359,SAV,21.9,547
+ZA-Kru,Skukuza,savanna,South Africa,NA,2,2000,2013,-25.0197,31.4969,359,SAV,21.9,547
+ZM-Mon,Mongu,deciduous broadleaf forest,Zambia,NA,1,2000,2009,-15.43778,23.25278,1053,DBF,25,945
+ZM-Mon,Mongu,deciduous broadleaf forest,Zambia,NA,2,2000,2009,-15.43778,23.25278,1053,DBF,25,945
